@@ -1,5 +1,5 @@
 # Steam.com Clone
-This project aims to recreate a clone of the popular gaming platform Steam.com. By developing a website clone, you will gain valuable hands-on experience in web development and improve your CSS skills.
+* This project aims to recreate a clone of the popular gaming platform Steam.com. By developing a website clone, you will gain valuable hands-on experience in web development and improve your CSS skills.
 
 # Introduction
 * The Steam.com Clone project is an exercise in replicating the design and functionality of the Steam website. The 
